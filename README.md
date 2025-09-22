@@ -64,4 +64,6 @@ I studied **Business management and Computer Science** at **Wisconsin Internatio
 | [BMI App](https://github.com/Wann-mobile/bmi-app)           | Flutter, C++        | –              | BMI logic in C++, cross-platform support                           | [Repo](https://github.com/Wann-mobile/bmi-app)    | ![BMI Screenshot](screenshots/bmi/home.png)              | ![BMI Screenshot](screenshots/bmi/result.png)               |
 | **University Voting App** _(WIP)_                           | Flutter             | –              | Digital elections, results dashboard, admin controls               | –                                                 | [📂 Screenshots](screenshots/voting/)                    |
 
+> 📌 To view 'ledgr' click on the screenshot git link.
+
 ---
