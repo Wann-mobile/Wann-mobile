@@ -27,9 +27,9 @@
 ### 👩‍💻 About Me
 
 I'm a **Mobile & Backend Developer** of **Nigerian / Mozambican** heritage.  
-I studied **Computer Science & Business** at **Wisconsin International University College, Ghana**.
+I studied **Business management and Computer Science** at **Wisconsin International University College, Ghana**.
 
-- 🔭 Currently building **Ledgr**, an AI-powered expense tracker.
+- 🔭 Currently building **Ledgr**, an SMS-powered expense tracker.
 - 📚 Learning more about backend scaling, clean architecture & AI integration.
 - ⚡ Love experimenting with new stacks and contributing to open-source.
 
@@ -55,15 +55,13 @@ I studied **Computer Science & Business** at **Wisconsin International Universit
 
 ### 🚀 Projects
 
-| Project                                                     | Tech Stack          | Backend        | Tech Highlights                                                   | Links                                             | Screenshots                                              |
-| ----------------------------------------------------------- | ------------------- | -------------- | ----------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------- |
-| **Ledgr** _(Private)_                                       | Flutter, Express.js | MongoDB, Redis | AI-powered expense parsing from SMS, clean architecture, JWT auth | –                                                 | [📂 Screenshots](screenshots/ledgr/)                     |
-| [E-commerce App](https://github.com/Wann-mobile/e-commerce) | Flutter             | **MongoDB**    | Product listings, cart, checkout flow, secure API                 | [Repo](https://github.com/Wann-mobile/e-commerce) | ![E-commerce Screenshot](screenshots/ecommerce/home.png) |
-| [Ticket App](https://github.com/Wann-mobile/ticket_app)     | Flutter             | –              | Ticket booking flow, seat selection, QR validation                | [Repo](https://github.com/Wann-mobile/ticket_app) | ![Ticket Screenshot](screenshots/ticket/home.png)        |
-| [News App](https://github.com/Wann-mobile/news-app)         | Flutter             | **Firebase**   | Realtime news feed, push notifications, category filters          | [Repo](https://github.com/Wann-mobile/news-app)   | ![News Screenshot](screenshots/news/home.png)            |
-| [BMI App](https://github.com/Wann-mobile/bmi-app)           | Flutter, C++        | –              | BMI logic in C++, cross-platform support                          | [Repo](https://github.com/Wann-mobile/bmi-app)    | ![BMI Screenshot](screenshots/bmi/home.png)              |
-| **University Voting App** _(WIP)_                           | Flutter             | –              | Digital elections, results dashboard, admin controls              | –                                                 | [📂 Screenshots](screenshots/voting/)                    |
-
-> 📌 Add screenshots to `/screenshots/<project>` (e.g., `screenshots/ecommerce/home.png`).
+| Project                                                     | Tech Stack          | Backend        | Tech Highlights                                                    | Links                                             | Screenshots                                              |
+| ----------------------------------------------------------- | ------------------- | -------------- | ------------------------------------------------------------------ | ------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------- |
+| **Ledgr** _(Private)_                                       | Flutter, Express.js | MongoDB, Redis | SMS-powered expense parsing from SMS, clean architecture, JWT auth | –                                                 | [📂 Screenshots](screenshots/ledgr/home.png)             | [📂 Screenshots](screenshots/ledgr/analytics.png)           |
+| [E-commerce App](https://github.com/Wann-mobile/e-commerce) | Flutter             | **MongoDB**    | Product listings, cart, checkout flow, secure API                  | [Repo](https://github.com/Wann-mobile/e-commerce) | ![E-commerce Screenshot](screenshots/ecommerce/home.png) | ![E-commerce Screenshot](screenshots/ecommerce/explore.png) |
+| [Ticket App](https://github.com/Wann-mobile/ticket_app)     | Flutter             | –              | Ticket booking flow, seat selection, QR validation                 | [Repo](https://github.com/Wann-mobile/ticket_app) | ![Ticket Screenshot](screenshots/ticket/home.png)        | ![Ticket Screenshot](screenshots/ticket/ticket.png)         |
+| [News App](https://github.com/Wann-mobile/news-app)         | Flutter             | **Firebase**   | Realtime news feed, push notifications, category filters           | [Repo](https://github.com/Wann-mobile/news-app)   | ![News Screenshot](screenshots/news/home.png)            | ![News Screenshot](screenshots/news/explore.png)            |
+| [BMI App](https://github.com/Wann-mobile/bmi-app)           | Flutter, C++        | –              | BMI logic in C++, cross-platform support                           | [Repo](https://github.com/Wann-mobile/bmi-app)    | ![BMI Screenshot](screenshots/bmi/home.png)              | ![BMI Screenshot](screenshots/bmi/result.png)               |
+| **University Voting App** _(WIP)_                           | Flutter             | –              | Digital elections, results dashboard, admin controls               | –                                                 | [📂 Screenshots](screenshots/voting/)                    |
 
 ---
