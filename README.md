@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Nnaemeka Nwanna</h1>
+<h1 align="center">Hey there 👋, I'm Chisom Nwanna</h1>
 
 ---
 
@@ -55,15 +55,8 @@ I studied **Business management and Computer Science** at **Wisconsin Internatio
 
 ### 🚀 Projects
 
-| Project                                                     | Tech Stack          | Backend        | Tech Highlights                                           | Links                                             | Screenshots                                                                                |
-| ----------------------------------------------------------- | ------------------- | -------------- | --------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Ledgr** _(Private)_                                       | Flutter, Express.js | MongoDB, Redis | SMS-powered expense parsing, clean architecture, JWT auth | –                                                 | ![Home](screenshots/ledgr/home.png) <br> ![Analytics](screenshots/ledgr/analytics.png)     |
-| [E-commerce App](https://github.com/Wann-mobile/e-commerce) | Flutter             | MongoDB        | Product listings, cart, checkout, secure API              | [Repo](https://github.com/Wann-mobile/e-commerce) | ![Home](screenshots/ecommerce/home.png) <br> ![Explore](screenshots/ecommerce/explore.png) |
-| [Ticket App](https://github.com/Wann-mobile/ticket_app)     | Flutter             | –              | Ticket booking flow, seat selection, QR validation        | [Repo](https://github.com/Wann-mobile/ticket_app) | ![Home](screenshots/ticket/home.png) <br> ![Ticket](screenshots/ticket/ticket.png)         |
-| [News App](https://github.com/Wann-mobile/news-app)         | Flutter             | Firebase       | Realtime feed, push notifications, category filters       | [Repo](https://github.com/Wann-mobile/news-app)   | ![Home](screenshots/news/home.png) <br> ![Explore](screenshots/news/explore.png)           |
-| [BMI App](https://github.com/Wann-mobile/bmi-app)           | Flutter, C++        | –              | BMI logic in C++, cross-platform                          | [Repo](https://github.com/Wann-mobile/bmi-app)    | ![Home](screenshots/bmi/home.png) <br> ![Result](screenshots/bmi/result.png)               |
-| **University Voting App** _(WIP)_                           | Flutter             | –              | Digital elections, results dashboard, admin controls      | –                                                 | ![Home](screenshots/voting/home.png) <br> ![Calendar](screenshots/voting/calender.png)     |
+<div align="center"  >
+ 
+<a href = " https://wann-dev-mobile-portfolio.vercel.app/ " target=blank>Check out some of my previous works </a>
 
-> 📌 To view 'ledgr' click on the screenshot git link.
-
----
+ </div>
