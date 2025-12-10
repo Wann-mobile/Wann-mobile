@@ -57,6 +57,6 @@ I studied **Business management and Computer Science** at **Wisconsin Internatio
 
 <div align="center"  >
  
-<a href = " https://wann-dev-mobile-portfolio.vercel.app/ " target=blank>Check out some of my previous works </a>
+<a href = "https://wann-dev-mobile-portfolio.vercel.app/" target="_blank">Check out some of my works </a>
 
  </div>
